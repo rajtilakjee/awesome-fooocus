@@ -5,7 +5,7 @@ Inspired by [awesome-python](https://awesome-python.com/).
 
 ___
 
-## Official Resources
+## 📜 Official Resources
 _Official resources for Fooocus_
 
 - [GitHub repo](https://github.com/lllyasviel/Fooocus) - The official Fooocus repo on GitHub.

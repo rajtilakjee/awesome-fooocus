@@ -1,4 +1,4 @@
-# Awesome Fooocus ![image](https://github.com/sindresorhus/awesome/blob/main/media/badge-flat.svg)
+# Awesome Fooocus ![image](images/badge.svg)
 _A curated list of awesome Fooocus resources._
 
 Inspired by [awesome-python](https://awesome-python.com/).

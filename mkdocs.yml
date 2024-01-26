@@ -1,3 +1,7 @@
 site_name: Awesome Fooocus
+
 theme:
   name: material
+  palette:
+    primary: yellow
+    accent: pink

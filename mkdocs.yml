@@ -3,5 +3,5 @@ site_name: Awesome Fooocus
 theme:
   name: material
   palette:
-    primary: violet
-    accent: pink
+    primary: purple
+    accent: indigo

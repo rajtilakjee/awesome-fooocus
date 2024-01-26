@@ -4,11 +4,20 @@ site_description: A curated list of awesome Fooocus resources
 site_author: Rajtilak Bhattacharjee
 repo_name: rajtilakjee/awesome-fooocus
 repo_url: https://github.com/rajtilakjee/awesome-fooocus
+
 theme:
   name: material
   palette:
     primary: purple
     accent: indigo
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  
 extra:
   social:
     - icon: fontawesome/brands/github

@@ -11,9 +11,9 @@ theme:
     accent: indigo
 extra:
   social:
-    - type: github
+    - icon: github
       link: https://github.com/rajtilakjee
-    - type: twitter
+    - icon: twitter
       link: https://twitter.com/rajtilakjee
-    - type: linkedin
+    - icon: linkedin
       link: https://www.linkedin.com/in/rajtilak

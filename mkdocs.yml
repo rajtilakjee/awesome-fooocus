@@ -11,9 +11,9 @@ theme:
     accent: indigo
 extra:
   social:
-    - icon: github
+    - icon: fontawesome/brands/github
       link: https://github.com/rajtilakjee
-    - icon: twitter
+    - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/rajtilakjee
-    - icon: linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/rajtilak

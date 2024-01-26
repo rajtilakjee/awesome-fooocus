@@ -11,7 +11,7 @@ _Official resources for Fooocus_
 - [GitHub repo](https://github.com/lllyasviel/Fooocus) - The official Fooocus repo on GitHub.
 - [Releases](https://github.com/lllyasviel/Fooocus/releases) - Latest release.
 
-## Notebooks
+## 💻 Notebooks
 _Notebooks for Fooocus_
 
 - [Google Colab](https://colab.research.google.com/)
@@ -19,13 +19,13 @@ _Notebooks for Fooocus_
 - [Kaggle Notebooks](https://www.kaggle.com/docs/notebooks)
 - [AWS SageMaker StudioLab](https://studiolab.sagemaker.aws/)
 
-## Model Zoos
+## 🧭 Model Zoos
 _Collection of models for Fooocus_
 
 - [Civit.ai](https://civitai.com/)
 - [Huggin Face](https://huggingface.co/models)
 
-## Tools
+## 🧭 Tools
 _Tools that can be used with or along with Fooocus_
 
 - [CLIP Interrogator 2.1](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Want to figure out what a good prompt might be to create new images like an existing one? The CLIP Interrogator is here to get you answers! This version is specialized for producing nice prompts for use with Stable Diffusion 2.0 using the ViT-H-14 OpenCLIP model!

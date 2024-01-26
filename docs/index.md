@@ -25,7 +25,7 @@ _Collection of models for Fooocus_
 - [Civit.ai](https://civitai.com/)
 - [Huggin Face](https://huggingface.co/models)
 
-## 🧭 Tools
+## 🛠️ Tools
 _Tools that can be used with or along with Fooocus_
 
 - [CLIP Interrogator 2.1](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Want to figure out what a good prompt might be to create new images like an existing one? The CLIP Interrogator is here to get you answers! This version is specialized for producing nice prompts for use with Stable Diffusion 2.0 using the ViT-H-14 OpenCLIP model!

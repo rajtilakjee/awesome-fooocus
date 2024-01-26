@@ -1,5 +1,9 @@
 site_name: Awesome Fooocus
-
+site_url: https://awesome-fooocus.netlify.app
+site_description: A curated list of awesome Fooocus resources
+site_author: Rajtilak Bhattacharjee
+repo_name: rajtilakjee/awesome-fooocus
+repo_url: https://github.com/rajtilakjee/awesome-fooocus
 theme:
   name: material
   palette:

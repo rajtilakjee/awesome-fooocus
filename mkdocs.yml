@@ -9,3 +9,11 @@ theme:
   palette:
     primary: purple
     accent: indigo
+extra:
+  social:
+    - type: github
+      link: https://github.com/rajtilakjee
+    - type: twitter
+      link: https://twitter.com/rajtilakjee
+    - type: linkedin
+      link: https://www.linkedin.com/in/rajtilak

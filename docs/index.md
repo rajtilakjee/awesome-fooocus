@@ -3,6 +3,8 @@ _A curated list of awesome Fooocus resources._
 
 Inspired by [awesome-python](https://awesome-python.com/).
 
+___
+
 ## Official Resources
 _Official resources for Fooocus_
 
